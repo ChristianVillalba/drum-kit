@@ -12,11 +12,11 @@ for (i = 0; i < drumList.length; i++) {
 }
 
 // Detecting keyboard press
-
 document.addEventListener("keydown", function(event){
   makeSound(event.key);
   buttonAnimation(event.key);
 });
+
 //Selected keys in the keyboard will make sound when pressed
 function makeSound(key) {
   switch (key) {
