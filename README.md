@@ -15,4 +15,4 @@ This exercise is about:\
 -How to add EventListeners so our file reacts to human actions.\
 -Higher Order Function: It takes another function as input.
 -Callback Functions: The function passed in as input. It allows to to wait for something to happen.
-
+-Responsive Design
