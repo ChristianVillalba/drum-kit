@@ -13,6 +13,7 @@ When activating a buttons, we will get an animation and the corresponding sound.
 This exercise is about:\
 -Understanding the DOM\
 -How to add EventListeners so our file reacts to human actions.\
--Higher Order Function: It takes another function as input.
--Callback Functions: The function passed in as input. It allows to to wait for something to happen.
+-Higher Order Function: It takes another function as input.\
+-Callback Functions: The function passed in as input.\
+It allows to to wait for something to happen.
 -Responsive Design
