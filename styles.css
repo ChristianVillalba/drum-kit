@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: #435560;
+  background-image: url('images/Blue1.jpg');
 }
 
 h1 {
@@ -54,7 +54,7 @@ footer {
 
 .drum {
   outline: none;
-  border: 10px solid #1b6ca8;
+  border: 8px solid black;
   font-size: 5rem;
   font-family: 'Arvo', cursive;
   line-height: 2;
